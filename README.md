@@ -1,5 +1,3 @@
 # Online-examination
-Online Examinations designed for performance.Description will be updated shortly.
-Follow same procedure as last time and load the adminlogin.php for adminlogin / studentlogin.php for studentlogin
-For admin default username:admin password:admin
-
+Dynamic Online Examination designed for performance.
+Separate driver applications for admin and end user.
